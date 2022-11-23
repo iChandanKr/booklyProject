@@ -1,0 +1,1 @@
+DELETE FROM `game123` WHERE `game123`.`sno` = 10
